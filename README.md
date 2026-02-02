@@ -1,5 +1,5 @@
 # Budgetary-Accuracy-and-Fiscal-Forecasting-in-Local-Government
-## 🧩Project Overview: This project conducts a data-driven evaluation of local government revenue forecasting accuracy using nearly 20 years of historical data. The analysis identifies systematic patterns of over-estimation and under-estimation to uncover forecasting biases and support more accurate future fiscal planning.
+### 🧩Project Overview: This project conducts a data-driven evaluation of local government revenue forecasting accuracy using nearly 20 years of historical data. The analysis identifies systematic patterns of over-estimation and under-estimation to uncover forecasting biases and support more accurate future fiscal planning.
 # 📊 City Revenue Budget vs Actual Analysis
 
 ### The Problem
@@ -46,8 +46,8 @@ Data analysis reveals patterns in budget allocation vs actual revenue and highli
 
 ## 🗂 Dataset
 
-- Source: Provided dataset
-- Records: 500+ rows
+- Source: https://mydata.iowa.gov/
+- Records: 226,548 (ROWS)11(COLUMNS)
 - Features: City, Revenue Type, Budget, Actual
 
 ---
