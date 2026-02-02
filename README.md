@@ -34,7 +34,6 @@ Data analysis reveals patterns in budget allocation vs actual revenue and highli
 ---
 
 ## 🎯 Top Recommendations
-**
 1.**** Improve planning for underperforming revenue types
 2. Reallocate budget based on historical performance
 3. Focus on cities with consistent revenue gaps
